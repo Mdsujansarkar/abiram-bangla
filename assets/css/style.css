@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    font-family: 'Tiro Bangla', serif;
+  }
+  
+.top-menu {
+    padding-top: 10px;
+    background-color: #F9F9F9;
+}
+.logo-section img {
+    height: 75px;
+    width: auto;
+}
+.heading-slugun img {
+    height: 50px;
+    width: auto;  
+}
+.time-date img {
+    height: 15px;
+    width: 15px;
+}
+.all-social-icon a {
+    text-decoration: none;
+}
+.all-social-icon a i {
+    height: 40px;
+    width: 40px;
+    font-size:22px;
+}
+.facebook {
+    color: #1877F2;
+}
+.twitter {
+    color: #1DA1F2;
+}
+.youtube {
+    color: #FF0000;
+}
+.instagram {
+    color: #7F3FB9;   
+}
+.linkedin {
+    color: #0077B5;
+}
+.playstore {
+    color: #32A350;
+}
+
+.facebook:hover {
+    color: #0c3d7e;
+}
+.twitter:hover {
+    color: #135279;
+}
+.youtube:hover {
+    color: #8f1515fd;
+}
+.instagram:hover {
+    color: #7d2dc7;   
+}
+.linkedin:hover {
+    color: #13a0ec;
+}
+.playstore:hover {
+    color: #a34932;
+}
+.language-select .width {
+    width: 50%;
+}
+.input-group .form-control {
+    width: 50%; 
+}
+.search-map {
+    display: flex;
+}
+.map {
+    padding-right: 10px;
+}
+.language-select a {
+    text-decoration: none;
+    padding-right: 5px;
+}
